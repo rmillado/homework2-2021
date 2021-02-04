@@ -41,7 +41,7 @@ h1{
 
 h2{
     font-size: 32px;
-    filter: drop-shadow(4px 4px 2px #808080);
+    filter: text-shadow(4px 4px 2px #808080);
 }
 
 p{
