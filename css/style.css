@@ -44,10 +44,17 @@ div{
 }
 
 #yellow{
-    background: #ffff00;
+    background:#ffff00;
     text-align: right;
-    color: #000000;
+}
+
+#h2yellow{
+    color:#000000;
     filter: drop-shadow(4px 4px 2px #c7e2c7);
+}
+
+#pyellow{
+    color:#000000;
 }
 
 #green{
@@ -59,4 +66,6 @@ footer{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-left: 0;
+    padding-top: 0;
 }
