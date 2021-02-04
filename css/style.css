@@ -10,31 +10,8 @@ h1{
     padding: 10px;
 }
 
-h2{
-    font-size: 32px;
-    filter: drop-shadow(4px 4px 2px #808080);
-}
-
-p{
-    font-size: 24px;
-    padding-top: 15px;
-}
-
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 550px;
-    white-space: nowrap;
-}
-
-div{
-    padding: 25px;
-    min-height: 150px;
-}
-
 #red{
-    background:#FF0000;
+    background:#ff0000;
     text-align: right;
 }
 
@@ -62,8 +39,32 @@ div{
     text-align: left;
 }
 
+h2{
+    font-size: 32px;
+    filter: drop-shadow(4px 4px 2px #808080);
+}
+
+p{
+    font-size: 24px;
+    padding-top: 15px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+div{
+    min-height: 150px;
+    padding: 25px;
+}
+
 footer p{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-left: 0px;
+    padding-top: 0px;
 }
