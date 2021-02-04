@@ -1,7 +1,7 @@
 body{
-    background: #000000;
-    color: #ffffff;
-    font-family:"Times New Roman";
+    background:#000000;
+    color:#ffffff;
+    font-family:"Times New Roman", sans-serif;
 }
 
 h1{
@@ -30,7 +30,7 @@ img{
 
 div{
     padding: 25px;
-    height: 150px;
+    min-height: 150px;
 }
 
 #red{
